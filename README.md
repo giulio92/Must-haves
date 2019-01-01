@@ -26,6 +26,11 @@ A list of personal must-have applications for `macOS` platform
 - [Sourcetree](https://www.sourcetreeapp.com)
 - [Tower](https://www.git-tower.com)
 
+### 📨 Messaging
+- [Slack](https://slack.com)
+- [Skype](https://www.skype.com)
+
+
 ### 💽 Media
 - [IINA](https://iina.io)
 - [Spotify](https://www.spotify.com)
