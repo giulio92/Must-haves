@@ -35,3 +35,7 @@ A list of personal must-have applications for `macOS` platform
 - [The Unarchiver](https://theunarchiver.com/)
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)
 - [Pacifist](https://www.charlessoft.com/)
+- [f.lux](https://justgetflux.com/)
+- [Aerial](https://github.com/JohnCoates/Aerial)
+- [OnyX](https://www.titanium-software.fr/en/onyx.html)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
