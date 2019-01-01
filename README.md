@@ -36,6 +36,9 @@ A list of personal must-have applications for `macOS` platform
 - [OpenEmu](https://openemu.org)
 - [VirtualBox](https://www.virtualbox.org)
 
+### 📦 File sharing
+- [Transmission](https://transmissionbt.com)
+
 ### 🔨 Utilities
 - [1Password](https://1password.com)
 - [Aerial](https://github.com/JohnCoates/Aerial)
