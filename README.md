@@ -32,6 +32,9 @@ A list of personal must-have applications for `macOS` platform
 - [VLC media player](https://www.videolan.org/vlc/)
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html)
 
+### Emulation
+- [OpenEmu](https://openemu.org/)
+
 ### Utilities
 - [1Password](https://1password.com)
 - [Aerial](https://github.com/JohnCoates/Aerial)
