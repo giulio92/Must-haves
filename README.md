@@ -41,6 +41,7 @@ A list of personal must-have applications for `macOS` platform
 - [CleanMyMac](https://macpaw.com/cleanmymac)
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)
 - [f.lux](https://justgetflux.com)
+- [iA Writer](https://ia.net/writer)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [iTerm](https://www.iterm2.com)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
