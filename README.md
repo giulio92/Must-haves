@@ -32,3 +32,6 @@ A list of personal must-have applications for `macOS` platform
 - [iTerm](https://www.iterm2.com)
 - [Things](https://culturedcode.com/things/)
 - [Reeder](http://reederapp.com)
+- [The Unarchiver](https://theunarchiver.com/)
+- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)
+- [Pacifist](https://www.charlessoft.com/)
