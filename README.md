@@ -11,3 +11,7 @@ A list of personal must have software for `macOS` platform
 - [Sketch](https://www.sketchapp.com/)
 - [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 - [Skitch](https://evernote.com/skitch)
+
+### Version control
+- [Tower](https://www.git-tower.com/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
