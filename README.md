@@ -33,7 +33,7 @@ A list of personal must-have applications for `macOS` platform
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html)
 
 ### 🕹 Emulation
-- [OpenEmu](https://openemu.org/)
+- [OpenEmu](https://openemu.org)
 
 ### 🔨 Utilities
 - [1Password](https://1password.com)
@@ -47,5 +47,5 @@ A list of personal must-have applications for `macOS` platform
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
 - [Pacifist](https://www.charlessoft.com)
 - [Reeder](http://reederapp.com)
-- [The Unarchiver](https://theunarchiver.com/)
+- [The Unarchiver](https://theunarchiver.com)
 - [Things](https://culturedcode.com/things/)
