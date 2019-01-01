@@ -34,6 +34,7 @@ A list of personal must-have applications for `macOS` platform
 
 ### 🕹 Emulation
 - [OpenEmu](https://openemu.org)
+- [VirtualBox](https://www.virtualbox.org)
 
 ### 🔨 Utilities
 - [1Password](https://1password.com)
