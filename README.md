@@ -18,6 +18,7 @@ A list of personal must have software for `macOS` platform
 - [Kaleidoscope](https://www.kaleidoscopeapp.com/)
 - [Atom](https://atom.io/)
 - [Charles](https://www.charlesproxy.com/)
+- [Realm Studio](https://realm.io/products/realm-studio/)
 
 ### Version control
 - [Tower](https://www.git-tower.com/)
