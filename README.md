@@ -27,8 +27,8 @@ A list of personal must-have applications for `macOS` platform
 - [Tower](https://www.git-tower.com)
 
 ### 📨 Messaging
-- [Slack](https://slack.com)
 - [Skype](https://www.skype.com)
+- [Slack](https://slack.com)
 
 
 ### 💽 Media
