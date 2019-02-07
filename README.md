@@ -3,8 +3,17 @@
 A list of personal must-have applications for `macOS` platform
 
 ### 🌐 Browsers
-- [Google Chrome](https://www.google.com/chrome)
-- [Mozilla Firefox](https://www.firefox.com)
+- [Google Chrome](https://www.google.com/chrome)  
+  **Extensions:**
+   - [AdBlock](https://getadblock.com/)
+   - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+   - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+    
+- [Mozilla Firefox](https://www.firefox.com)  
+  **Add-ons:**
+   - [Adblock Plus](https://adblockplus.org/)
+   - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+   - [Refined GitHub](https://addons.mozilla.org/it/firefox/addon/refined-github-/)
 
 ### 🖼 Image editing
 - [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
