@@ -61,7 +61,9 @@ A list of personal must-have applications for `macOS` platform
 - [f.lux](https://justgetflux.com)
 - [iA Writer](https://ia.net/writer)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
-- [iTerm](https://www.iterm2.com)
+- [iTerm](https://www.iterm2.com)  
+  **Add-ons:**
+   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
 - [Pacifist](https://www.charlessoft.com)
 - [Reeder](http://reederapp.com)
