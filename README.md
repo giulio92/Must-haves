@@ -61,7 +61,7 @@ A list of personal must-have applications for `macOS` platform
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [iTerm](https://www.iterm2.com)  
   **Add-ons:**
-   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) (with [agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster) theme + [Solarized](https://ethanschoonover.com/solarized/) Dark scheme)
+   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) (with [agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster) theme + [Solarized](https://github.com/altercation/solarized) Dark scheme)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
 - [Pacifist](https://www.charlessoft.com)
 - [Reeder](http://reederapp.com)
