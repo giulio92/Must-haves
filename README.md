@@ -8,7 +8,7 @@ A list of personal must-have applications for `macOS` platform
    - [AdBlock](https://getadblock.com/)
    - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
    - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
-    
+   
 - [Mozilla Firefox](https://www.firefox.com)  
   **Add-ons:**
    - [Adblock Plus](https://adblockplus.org/)
@@ -39,7 +39,6 @@ A list of personal must-have applications for `macOS` platform
 - [Skype](https://www.skype.com)
 - [Slack](https://slack.com)
 
-
 ### 💽 Media
 - [IINA](https://iina.io)
 - [Spotify](https://www.spotify.com)
@@ -64,6 +63,7 @@ A list of personal must-have applications for `macOS` platform
 - [iTerm](https://www.iterm2.com)  
   **Add-ons:**
    - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+   
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
 - [Pacifist](https://www.charlessoft.com)
 - [Reeder](http://reederapp.com)
